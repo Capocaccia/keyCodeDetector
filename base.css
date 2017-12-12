@@ -1,0 +1,12 @@
+body {
+	background-color: #F5F5F5;
+	font-family: Sanchez, sans-serif;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
