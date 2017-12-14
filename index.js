@@ -1,5 +1,3 @@
-let cornify = require('cornified')
-
 let pressed = [];
 const code = 'ArrowUpArrowUpArrowDownArrowDownArrowLeftArrowRightArrowLeftArrowRightbaEnter';
 window.addEventListener('keyup', (e) => {
